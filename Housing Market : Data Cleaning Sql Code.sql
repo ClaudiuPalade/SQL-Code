@@ -1,3 +1,7 @@
+/*  SQL data cleaning project : Housing market in Madrid, Spain
+	Data extracted from https://www.kaggle.com/datasets
+	RDBMS used : PostgreSQL(PgAdmin 4)  */
+
 --- Create new table for housing data
 
 Create Table HousingInMadrid(
